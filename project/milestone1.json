@@ -22,7 +22,7 @@
             "description": "Bayerische Motoren Werke AG, commonly referred to as BMW, is a German multinational corporation which produces luxury vehicles and motorcycles.",
             "founded": "1916-03-07",
             "headquarters": "Munich, Germany",
-            "image_url": "https://www.fastcar.co.uk/wp-content/uploads/sites/2/BMW-E46-M3-Pandem-12.jpg?w=900",
+            "image_url": "https://raw.githubusercontent.com/soufhmch/WebOntwikkeling/main/project/BMW-E46-M3-Pandem-12.jpg",
             "popular_models": ["BMW 3 Series", "BMW 5 Series", "BMW X5"],
             "significant_model": {
             "name": "BMW M3",
