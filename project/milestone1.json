@@ -148,9 +148,9 @@
             "performance": "High-performance vehicle",
             "Engine": "Twin Turbo-V6",
             "production": 50000
-            }
-            },
-            {
+        }
+        },
+        {
             "id": 10,
             "name": "Mazda",
             "description": "Mazda Motor Corporation is a Japanese multinational automaker based in Fuchū, Hiroshima, Japan.",
@@ -165,6 +165,6 @@
             "iconic": "Best-selling two-seat convertible sports car in history",
             "Engine": "Turbo-Rotary",
             "production": 820000
-            }
-            }
+        }
+        }
 ]
