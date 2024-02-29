@@ -156,7 +156,7 @@
             "description": "Mazda Motor Corporation is a Japanese multinational automaker based in Fuchū, Hiroshima, Japan.",
             "founded": "1920-01-30",
             "headquarters": "Fuchū, Hiroshima, Japan",
-            "image_url": "https://www.motortrend.com/uploads/2023/08/rx7-fd-front-end.jpg?fit=around%7C875:492",
+            "image_url": "https://raw.githubusercontent.com/soufhmch/WebOntwikkeling/main/project/rx7-fd-front-end.jpg",
             "popular_models": ["Mazda3", "Mazda CX-5", "Mazda MX-5"],
             "significant_model": {
             "name": "Mazda rx-7",
