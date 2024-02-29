@@ -39,7 +39,7 @@
             "description": "Ford Motor Company is an American multinational automaker that has its main headquarters in Dearborn, Michigan, a suburb of Detroit.",
             "founded": "1903-06-16",
             "headquarters": "Dearborn, Michigan, United States",
-            "image_url": "https://www.vdm.ford.com/content/dam/vdm_ford/live/en_us/ford/nameplate/mustang/2024/collections/equipment/3-2/24_Mustang_Dark_Horse_13_32.jpg/jcr:content/renditions/cq5dam.web.768.768.jpeg",
+            "image_url": "https://raw.githubusercontent.com/soufhmch/WebOntwikkeling/main/project/cq5dam.web.768.768.jpeg",
             "popular_models": ["Ford F-Series", "Ford Mustang", "Ford Explorer"],
             "significant_model": {
             "name": "Ford mustang GT Dark horse",
