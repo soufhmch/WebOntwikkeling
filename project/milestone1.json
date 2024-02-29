@@ -139,7 +139,7 @@
             "description": "Nissan Motor Co., Ltd. is a Japanese multinational automobile manufacturer headquartered in Yokohama, Japan.",
             "founded": "1933-12-26",
             "headquarters": "Yokohama, Japan",
-            "image_url": "https://hips.hearstapps.com/hmg-prod/images/2024-nissan-gt-r-119-1673621285.jpg?crop=0.635xw:0.564xh;0,0.171xh&resize=1200:*",
+            "image_url": "https://raw.githubusercontent.com/soufhmch/WebOntwikkeling/main/project/2024-nissan-gt-r-119-1673621285.jpg",
             "popular_models": ["Nissan Altima", "Nissan Rogue", "Nissan Sentra"],
             "significant_model": {
             "name": "Nissan GT-R",
