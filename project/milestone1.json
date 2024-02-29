@@ -1,0 +1,170 @@
+[
+    {
+            "id": 1,
+            "name": "Toyota",
+            "description": "Toyota Motor Corporation is a Japanese multinational automotive manufacturer headquartered in Toyota City, Aichi, Japan.",
+            "founded": "1937-08-28",
+            "headquarters": "Toyota City, Aichi, Japan",
+            "image_url": "https://www.carscoops.com/wp-content/uploads/2019/05/d4b9b129-toyota-supra-parts-1024x555.jpg",
+            "popular_models": ["Toyota Camry", "Toyota Corolla", "Toyota RAV4"],
+            "significant_model": {
+            "name": "Toyota Supra",
+            "release_year": 1994,
+            "type": "Gasoline",
+            "iconic": "2-step",
+            "production": 12000,
+            "Engine": "Turbo-I6"
+        }
+        },
+        {
+            "id": 2,
+            "name": "BMW",
+            "description": "Bayerische Motoren Werke AG, commonly referred to as BMW, is a German multinational corporation which produces luxury vehicles and motorcycles.",
+            "founded": "1916-03-07",
+            "headquarters": "Munich, Germany",
+            "image_url": "https://www.fastcar.co.uk/wp-content/uploads/sites/2/BMW-E46-M3-Pandem-12.jpg?w=900",
+            "popular_models": ["BMW 3 Series", "BMW 5 Series", "BMW X5"],
+            "significant_model": {
+            "name": "BMW M3",
+            "release_year": 2002,
+            "type": "Sports Sedan",
+            "top_speed": " 175mph",
+            "production": 86000,
+            "Engine": "Turbo-I6"
+        }
+        },
+        {
+            "id": 3,
+            "name": "Ford",
+            "description": "Ford Motor Company is an American multinational automaker that has its main headquarters in Dearborn, Michigan, a suburb of Detroit.",
+            "founded": "1903-06-16",
+            "headquarters": "Dearborn, Michigan, United States",
+            "image_url": "https://www.vdm.ford.com/content/dam/vdm_ford/live/en_us/ford/nameplate/mustang/2024/collections/equipment/3-2/24_Mustang_Dark_Horse_13_32.jpg/jcr:content/renditions/cq5dam.web.768.768.jpeg",
+            "popular_models": ["Ford F-Series", "Ford Mustang", "Ford Explorer"],
+            "significant_model": {
+            "name": "Ford mustang GT Dark horse",
+            "release_year": 2022,
+            "type": "Sports car",
+            "innovation": "Racing",
+            "production": 100,
+            "Engine": "Supercharged-V8"
+        }
+        },
+        {
+            "id": 4,
+            "name": "Mercedes-Benz",
+            "description": "Mercedes-Benz is a German global automobile marque and a division of Daimler AG. Mercedes-Benz is known for luxury vehicles, buses, coaches, and trucks.",
+            "founded": "1926-06-28",
+            "headquarters": "Stuttgart, Germany",
+            "image_url": "https://www.topgear.com/sites/default/files/2022/03/1-Mercedes-S-Class-plug-in.jpg",
+            "popular_models": ["Mercedes-Benz C-Class", "Mercedes-Benz E-Class", "Mercedes-Benz GLE-Class"],
+            "significant_model": {
+            "name": "Mercedes-Benz S-Class",
+            "release_year": 2023,
+            "type": "Luxury Sedan",
+            "innovation": "Safety features",
+            "production": 30000,
+            "Engine": "Turbo-I6"
+        }
+        },
+        {
+            "id": 5,
+            "name": "Honda",
+            "description": "Honda Motor Co., Ltd. is a Japanese public multinational conglomerate corporation known as a manufacturer of automobiles, motorcycles, and power equipment.",
+            "founded": "1946-10-24",
+            "headquarters": "Minato, Tokyo, Japan",
+            "image_url": "https://hips.hearstapps.com/hmg-prod/images/2023-lightning-lap-honda-civic-type-r-mu-102-1675451016.jpg?crop=0.480xw:0.540xh;0.207xw,0.335xh&resize=768:*",
+            "popular_models": ["Honda Civic", "Honda Accord", "Honda CR-V"],
+            "significant_model": {
+            "name": "Honda Civic type-R",
+            "release_year": 2022,
+            "type": "Compact car",
+            "popularity": "Best-selling car in Canada",
+            "Engine": "Turbo-I4"
+        }
+        },
+        {
+            "id": 6,
+            "name": "Volkswagen",
+            "description": "Volkswagen is a German automaker founded in 1937 by the German Labour Front and Ferdinand Porsche. It is the flagship marque of the Volkswagen Group.",
+            "founded": "1937-05-28",
+            "headquarters": "Wolfsburg, Germany",
+            "image_url": "https://www.topgear.com/sites/default/files/cars-car/image/2019/12/golf_r_11_1_2.jpg",
+            "popular_models": ["Volkswagen Golf", "Volkswagen Passat", "Volkswagen Tiguan"],
+            "significant_model": {
+            "name": "Volkswagen golf R",
+            "release_year": 2017,
+            "type": "Compact car",
+            "iconic": "iconic clubsport car",
+            "Engine": "Turbo- I4",
+            "Production": 12000
+        }
+        },
+        {
+            "id": 7,
+            "name": "Chevrolet",
+            "description": "Chevrolet, colloquially referred to as Chevy and formally the Chevrolet Division of General Motors Company, is an American automobile division of the American manufacturer General Motors.",
+            "founded": "1911-11-03",
+            "headquarters": "Detroit, Michigan, United States",
+            "image_url": "https://media.ed.edmunds-media.com/chevrolet/corvette/2024/oem/2024_chevrolet_corvette_coupe_e-ray_fq_oem_1_1280.jpg",
+            "popular_models": ["Chevrolet Silverado", "Chevrolet Equinox", "Chevrolet Traverse"],
+            "significant_model": {
+            "name": "Chevrolet Corvette",
+            "release_year": 2019,
+            "type": "Sports car",
+            "legacy": "America's sports car",
+            "Engine": "NA-V8"
+        }
+        },
+        {
+            "id": 8,
+            "name": "Audi",
+            "description": "Audi AG is a German automobile manufacturer that designs, engineers, produces, markets and distributes luxury vehicles.",
+            "founded": "1932-04-25",
+            "headquarters": "Ingolstadt, Germany",
+            "image_url": "https://uploads.audi-mediacenter.com/system/production/media/74399/images/effeead44a96ffd82a55166668855dfa9e576aba/A192340_web_2880.jpg?1698356920",
+            "popular_models": ["Audi A4", "Audi A6", "Audi Q5"],
+            "significant_model": {
+            "name": "Audi R8",
+            "release_year": 2023,
+            "type": "Supercar",
+            "notable_feature": "Mid-engine layout",
+            "Engine": "NA-V10",
+            "production": 29000
+        }
+        },
+        {
+            "id": 9,
+            "name": "Nissan",
+            "description": "Nissan Motor Co., Ltd. is a Japanese multinational automobile manufacturer headquartered in Yokohama, Japan.",
+            "founded": "1933-12-26",
+            "headquarters": "Yokohama, Japan",
+            "image_url": "https://hips.hearstapps.com/hmg-prod/images/2024-nissan-gt-r-119-1673621285.jpg?crop=0.635xw:0.564xh;0,0.171xh&resize=1200:*",
+            "popular_models": ["Nissan Altima", "Nissan Rogue", "Nissan Sentra"],
+            "significant_model": {
+            "name": "Nissan GT-R",
+            "release_year": 2020,
+            "type": "Sports car",
+            "performance": "High-performance vehicle",
+            "Engine": "Twin Turbo-V6",
+            "production": 50000
+            }
+            },
+            {
+            "id": 10,
+            "name": "Mazda",
+            "description": "Mazda Motor Corporation is a Japanese multinational automaker based in Fuchū, Hiroshima, Japan.",
+            "founded": "1920-01-30",
+            "headquarters": "Fuchū, Hiroshima, Japan",
+            "image_url": "https://www.motortrend.com/uploads/2023/08/rx7-fd-front-end.jpg?fit=around%7C875:492",
+            "popular_models": ["Mazda3", "Mazda CX-5", "Mazda MX-5"],
+            "significant_model": {
+            "name": "Mazda rx-7",
+            "release_year": 1989,
+            "type": "Sports car",
+            "iconic": "Best-selling two-seat convertible sports car in history",
+            "Engine": "Turbo-Rotary",
+            "production": 820000
+            }
+            }
+]
