@@ -122,7 +122,7 @@
             "description": "Audi AG is a German automobile manufacturer that designs, engineers, produces, markets and distributes luxury vehicles.",
             "founded": "1932-04-25",
             "headquarters": "Ingolstadt, Germany",
-            "image_url": "https://uploads.audi-mediacenter.com/system/production/media/74399/images/effeead44a96ffd82a55166668855dfa9e576aba/A192340_web_2880.jpg?1698356920",
+            "image_url": "https://raw.githubusercontent.com/soufhmch/WebOntwikkeling/main/project/A192340_web_2880.jpg",
             "popular_models": ["Audi A4", "Audi A6", "Audi Q5"],
             "significant_model": {
             "name": "Audi R8",
