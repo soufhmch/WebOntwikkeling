@@ -89,7 +89,7 @@
             "description": "Volkswagen is a German automaker founded in 1937 by the German Labour Front and Ferdinand Porsche. It is the flagship marque of the Volkswagen Group.",
             "founded": "1937-05-28",
             "headquarters": "Wolfsburg, Germany",
-            "image_url": "https://www.topgear.com/sites/default/files/cars-car/image/2019/12/golf_r_11_1_2.jpg",
+            "image_url": "https://raw.githubusercontent.com/soufhmch/WebOntwikkeling/main/project/golf_r_11_1_2.jpg",
             "popular_models": ["Volkswagen Golf", "Volkswagen Passat", "Volkswagen Tiguan"],
             "significant_model": {
             "name": "Volkswagen golf R",
