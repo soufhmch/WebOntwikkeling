@@ -12,6 +12,7 @@
             "Toyota RAV4"
         ],
         "significant_model": {
+            "id": 001,
             "name": "Toyota Supra",
             "release_year": 1994,
             "type": "Gasoline",
@@ -33,6 +34,7 @@
             "BMW X5"
         ],
         "significant_model": {
+            "id": 002,
             "name": "BMW M3",
             "release_year": 2002,
             "type": "Sports Sedan",
@@ -54,6 +56,7 @@
             "Ford Explorer"
         ],
         "significant_model": {
+            "id": 003,
             "name": "Ford mustang GT Dark horse",
             "release_year": 2022,
             "type": "Sports car",
@@ -75,6 +78,7 @@
             "Mercedes-Benz GLE-Class"
         ],
         "significant_model": {
+            "id": 004,
             "name": "Mercedes-Benz S-Class",
             "release_year": 2023,
             "type": "Luxury Sedan",
@@ -96,6 +100,7 @@
             "Honda CR-V"
         ],
         "significant_model": {
+            "id": 005,
             "name": "Honda Civic type-R",
             "release_year": 2022,
             "type": "Compact car",
@@ -116,6 +121,7 @@
             "Volkswagen Tiguan"
         ],
         "significant_model": {
+            "id": 006,
             "name": "Volkswagen golf R",
             "release_year": 2017,
             "type": "Compact car",
@@ -137,6 +143,7 @@
             "Chevrolet Traverse"
         ],
         "significant_model": {
+            "id": 007,
             "name": "Chevrolet Corvette",
             "release_year": 2019,
             "type": "Sports car",
@@ -157,6 +164,7 @@
             "Audi Q5"
         ],
         "significant_model": {
+            "id": 008,
             "name": "Audi R8",
             "release_year": 2023,
             "type": "Supercar",
@@ -178,6 +186,7 @@
             "Nissan Sentra"
         ],
         "significant_model": {
+            "id": 009,
             "name": "Nissan GT-R",
             "release_year": 2020,
             "type": "Sports car",
@@ -199,6 +208,7 @@
             "Mazda MX-5"
         ],
         "significant_model": {
+            "id": 010,
             "name": "Mazda rx-7",
             "release_year": 1989,
             "type": "Sports car",
