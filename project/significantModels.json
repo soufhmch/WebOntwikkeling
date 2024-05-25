@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "name": "Toyota Supra",
+        "release_year": 1994,
+        "type": "Gasoline",
+        "iconic": "2-step",
+        "production": 12000,
+        "engine": "Turbo-I6"
+    },
+    {
+        "id": 2,
+        "name": "BMW M3",
+        "release_year": 2002,
+        "type": "Sports Sedan",
+        "top_speed": "175mph",
+        "production": 86000,
+        "engine": "Turbo-I6"
+    },
+    {
+        "id": 3,
+        "name": "Ford Mustang GT Dark Horse",
+        "release_year": 2022,
+        "type": "Sports car",
+        "innovation": "Racing",
+        "production": 100,
+        "engine": "Supercharged-V8"
+    },
+    {
+        "id": 4,
+        "name": "Mercedes-Benz S-Class",
+        "release_year": 2023,
+        "type": "Luxury Sedan",
+        "innovation": "Safety features",
+        "production": 30000,
+        "engine": "Turbo-I6"
+    },
+    {
+        "id": 5,
+        "name": "Honda Civic Type-R",
+        "release_year": 2022,
+        "type": "Compact car",
+        "popularity": "Best-selling car in Canada",
+        "engine": "Turbo-I4"
+    },
+    {
+        "id": 6,
+        "name": "Volkswagen Golf R",
+        "release_year": 2017,
+        "type": "Compact car",
+        "iconic": "Iconic clubsport car",
+        "engine": "Turbo-I4",
+        "production": 12000
+    },
+    {
+        "id": 7,
+        "name": "Chevrolet Corvette",
+        "release_year": 2019,
+        "type": "Sports car",
+        "legacy": "America's sports car",
+        "engine": "NA-V8"
+    },
+    {
+        "id": 8,
+        "name": "Audi R8",
+        "release_year": 2023,
+        "type": "Supercar",
+        "notable_feature": "Mid-engine layout",
+        "engine": "NA-V10",
+        "production": 29000
+    },
+    {
+        "id": 9,
+        "name": "Nissan GT-R",
+        "release_year": 2020,
+        "type": "Sports car",
+        "performance": "High-performance vehicle",
+        "engine": "Twin Turbo-V6",
+        "production": 50000
+    },
+    {
+        "id": 10,
+        "name": "Mazda RX-7",
+        "release_year": 1989,
+        "type": "Sports car",
+        "iconic": "Best-selling two-seat convertible sports car in history",
+        "engine": "Turbo-Rotary",
+        "production": 820000
+    }
+]
