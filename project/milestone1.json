@@ -7,7 +7,7 @@
         "headquarters": "Toyota City, Aichi, Japan",
         "image_url": "https://raw.githubusercontent.com/soufhmch/WebOntwikkeling/main/project/d4b9b129-toyota-supra-parts-1024x555.jpg",
         "popular_models": [
-            "Toyota Camry",
+            "Toyota Supra",
             "Toyota Corolla",
             "Toyota RAV4"
         ],
@@ -73,7 +73,7 @@
         "headquarters": "Stuttgart, Germany",
         "image_url": "https://raw.githubusercontent.com/soufhmch/WebOntwikkeling/main/project/1-Mercedes-S-Class-plug-in.jpg",
         "popular_models": [
-            "Mercedes-Benz C-Class",
+            "Mercedes-Benz S-Class",
             "Mercedes-Benz E-Class",
             "Mercedes-Benz GLE-Class"
         ],
@@ -139,7 +139,7 @@
         "image_url": "https://raw.githubusercontent.com/soufhmch/WebOntwikkeling/main/project/2024_chevrolet_corvette_coupe_e-ray_fq_oem_1_1280.jpg",
         "popular_models": [
             "Chevrolet Silverado",
-            "Chevrolet Equinox",
+            "Chevrolet Corvette",
             "Chevrolet Traverse"
         ],
         "significant_model": {
@@ -159,9 +159,9 @@
         "headquarters": "Ingolstadt, Germany",
         "image_url": "https://raw.githubusercontent.com/soufhmch/WebOntwikkeling/main/project/A192340_web_2880.jpg",
         "popular_models": [
-            "Audi A4",
             "Audi A6",
-            "Audi Q5"
+            "Audi A7",
+            "Audi R8"
         ],
         "significant_model": {
             "id": 108,
@@ -182,7 +182,7 @@
         "image_url": "https://raw.githubusercontent.com/soufhmch/WebOntwikkeling/main/project/2024-nissan-gt-r-119-1673621285.jpg",
         "popular_models": [
             "Nissan Altima",
-            "Nissan Rogue",
+            "Nissan GT-R",
             "Nissan Sentra"
         ],
         "significant_model": {
@@ -203,7 +203,7 @@
         "headquarters": "Fuchū, Hiroshima, Japan",
         "image_url": "https://raw.githubusercontent.com/soufhmch/WebOntwikkeling/main/project/rx7-fd-front-end.jpg",
         "popular_models": [
-            "Mazda3",
+            "Mazda rx-7",
             "Mazda CX-5",
             "Mazda MX-5"
         ],
