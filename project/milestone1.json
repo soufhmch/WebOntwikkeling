@@ -4,6 +4,7 @@
         "name": "Toyota",
         "description": "Toyota Motor Corporation is a Japanese multinational automotive manufacturer headquartered in Toyota City, Aichi, Japan.",
         "founded": "1937-08-28",
+        "discontinued": true,
         "headquarters": "Toyota City, Aichi, Japan",
         "image_url": "https://raw.githubusercontent.com/soufhmch/WebOntwikkeling/main/project/d4b9b129-toyota-supra-parts-1024x555.jpg",
         "popular_models": [
@@ -26,6 +27,7 @@
         "name": "BMW",
         "description": "Bayerische Motoren Werke AG, commonly referred to as BMW, is a German multinational corporation which produces luxury vehicles and motorcycles.",
         "founded": "1916-03-07",
+         "discontinued": true,
         "headquarters": "Munich, Germany",
         "image_url": "https://raw.githubusercontent.com/soufhmch/WebOntwikkeling/main/project/BMW-E46-M3-Pandem-12.jpg",
         "popular_models": [
@@ -48,6 +50,7 @@
         "name": "Ford",
         "description": "Ford Motor Company is an American multinational automaker that has its main headquarters in Dearborn, Michigan, a suburb of Detroit.",
         "founded": "1903-06-16",
+         "discontinued": false,
         "headquarters": "Dearborn, Michigan, United States",
         "image_url": "https://raw.githubusercontent.com/soufhmch/WebOntwikkeling/main/project/cq5dam.web.768.768.jpeg",
         "popular_models": [
@@ -70,6 +73,7 @@
         "name": "Mercedes-Benz",
         "description": "Mercedes-Benz is a German global automobile marque and a division of Daimler AG. Mercedes-Benz is known for luxury vehicles, buses, coaches, and trucks.",
         "founded": "1926-06-28",
+         "discontinued": false,
         "headquarters": "Stuttgart, Germany",
         "image_url": "https://raw.githubusercontent.com/soufhmch/WebOntwikkeling/main/project/1-Mercedes-S-Class-plug-in.jpg",
         "popular_models": [
@@ -92,6 +96,7 @@
         "name": "Honda",
         "description": "Honda Motor Co., Ltd. is a Japanese public multinational conglomerate corporation known as a manufacturer of automobiles, motorcycles, and power equipment.",
         "founded": "1946-10-24",
+         "discontinued": false,
         "headquarters": "Minato, Tokyo, Japan",
         "image_url": "https://raw.githubusercontent.com/soufhmch/WebOntwikkeling/main/project/2023-lightning-lap-honda-civic-type-r-mu-102-1675451016.jpg",
         "popular_models": [
@@ -113,6 +118,7 @@
         "name": "Volkswagen",
         "description": "Volkswagen is a German automaker founded in 1937 by the German Labour Front and Ferdinand Porsche. It is the flagship marque of the Volkswagen Group.",
         "founded": "1937-05-28",
+         "discontinued": true,
         "headquarters": "Wolfsburg, Germany",
         "image_url": "https://raw.githubusercontent.com/soufhmch/WebOntwikkeling/main/project/golf_r_11_1_2.jpg",
         "popular_models": [
@@ -135,6 +141,7 @@
         "name": "Chevrolet",
         "description": "Chevrolet, colloquially referred to as Chevy and formally the Chevrolet Division of General Motors Company, is an American automobile division of the American manufacturer General Motors.",
         "founded": "1911-11-03",
+         "discontinued": false,
         "headquarters": "Detroit, Michigan, United States",
         "image_url": "https://raw.githubusercontent.com/soufhmch/WebOntwikkeling/main/project/2024_chevrolet_corvette_coupe_e-ray_fq_oem_1_1280.jpg",
         "popular_models": [
@@ -156,6 +163,7 @@
         "name": "Audi",
         "description": "Audi AG is a German automobile manufacturer that designs, engineers, produces, markets and distributes luxury vehicles.",
         "founded": "1932-04-25",
+         "discontinued": true,
         "headquarters": "Ingolstadt, Germany",
         "image_url": "https://raw.githubusercontent.com/soufhmch/WebOntwikkeling/main/project/A192340_web_2880.jpg",
         "popular_models": [
@@ -178,6 +186,7 @@
         "name": "Nissan",
         "description": "Nissan Motor Co., Ltd. is a Japanese multinational automobile manufacturer headquartered in Yokohama, Japan.",
         "founded": "1933-12-26",
+         "discontinued": true,
         "headquarters": "Yokohama, Japan",
         "image_url": "https://raw.githubusercontent.com/soufhmch/WebOntwikkeling/main/project/2024-nissan-gt-r-119-1673621285.jpg",
         "popular_models": [
@@ -200,6 +209,7 @@
         "name": "Mazda",
         "description": "Mazda Motor Corporation is a Japanese multinational automaker based in Fuchū, Hiroshima, Japan.",
         "founded": "1920-01-30",
+         "discontinued": true,
         "headquarters": "Fuchū, Hiroshima, Japan",
         "image_url": "https://raw.githubusercontent.com/soufhmch/WebOntwikkeling/main/project/rx7-fd-front-end.jpg",
         "popular_models": [
