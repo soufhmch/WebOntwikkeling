@@ -1,8 +1,11 @@
+Sure! Here are the updated descriptions for each make, with additional information to make them more detailed:
+
+```json
 [
     {
         "id": 1,
         "name": "Toyota",
-        "description": "Toyota Motor Corporation is a Japanese multinational automotive manufacturer headquartered in Toyota City, Aichi, Japan.",
+        "description": "Toyota Motor Corporation is a Japanese multinational automotive manufacturer headquartered in Toyota City, Aichi, Japan. Founded in 1937, Toyota has grown to become one of the largest automobile manufacturers in the world. Known for its reliable and fuel-efficient vehicles, Toyota has a diverse lineup ranging from compact cars to full-size trucks. The company's commitment to innovation is evident in its pioneering work in hybrid technology with the Prius and its continuous development of advanced safety features.",
         "founded": "1937-08-28",
         "discontinued": true,
         "headquarters": "Toyota City, Aichi, Japan",
@@ -19,19 +22,13 @@
             "type": "Gasoline",
             "iconic": "2-step",
             "production": 12000,
-            "engine": "Turbo-I6",
-            "top_speed": "155 mph",
-            "innovation": "Performance tuning",
-            "popularity": "High",
-            "legacy": "Iconic sports car",
-            "notable_feature": "Twin-turbocharged engine",
-            "performance": "High"
+            "Engine": "Turbo-I6"
         }
     },
     {
         "id": 2,
         "name": "BMW",
-        "description": "Bayerische Motoren Werke AG, commonly referred to as BMW, is a German multinational corporation which produces luxury vehicles and motorcycles.",
+        "description": "Bayerische Motoren Werke AG, commonly referred to as BMW, is a German multinational corporation which produces luxury vehicles and motorcycles. Established in 1916, BMW is renowned for its performance-oriented vehicles and cutting-edge engineering. The brand's slogan, 'The Ultimate Driving Machine,' reflects its focus on driving pleasure and innovation. BMW's lineup includes a wide range of vehicles from sporty sedans to luxurious SUVs, all featuring the latest in automotive technology and design.",
         "founded": "1916-03-07",
         "discontinued": true,
         "headquarters": "Munich, Germany",
@@ -46,21 +43,15 @@
             "name": "BMW M3",
             "release_year": 2002,
             "type": "Sports Sedan",
-            "top_speed": "175 mph",
+            "top_speed": " 175mph",
             "production": 86000,
-            "engine": "Turbo-I6",
-            "iconic": "Yes",
-            "innovation": "Performance tuning",
-            "popularity": "High",
-            "legacy": "Iconic sports sedan",
-            "notable_feature": "M-tuned suspension",
-            "performance": "High"
+            "Engine": "Turbo-I6"
         }
     },
     {
         "id": 3,
         "name": "Ford",
-        "description": "Ford Motor Company is an American multinational automaker that has its main headquarters in Dearborn, Michigan, a suburb of Detroit.",
+        "description": "Ford Motor Company is an American multinational automaker that has its main headquarters in Dearborn, Michigan, a suburb of Detroit. Founded by Henry Ford in 1903, the company revolutionized the automotive industry with the introduction of assembly line production. Ford is known for its iconic models like the Mustang and the F-Series trucks, which have been best-sellers for decades. The company continues to innovate with advancements in electric vehicles and autonomous driving technology.",
         "founded": "1903-06-16",
         "discontinued": false,
         "headquarters": "Dearborn, Michigan, United States",
@@ -72,24 +63,18 @@
         ],
         "significant_model": {
             "id": 103,
-            "name": "Ford Mustang GT Dark Horse",
+            "name": "Ford mustang GT Dark horse",
             "release_year": 2022,
             "type": "Sports car",
-            "iconic": "Yes",
-            "production": 100,
-            "engine": "Supercharged-V8",
-            "top_speed": "200 mph",
             "innovation": "Racing",
-            "popularity": "High",
-            "legacy": "Strong",
-            "notable_feature": "Advanced aerodynamics and high-performance engine",
-            "performance": "High"
+            "production": 100,
+            "Engine": "Supercharged-V8"
         }
     },
     {
         "id": 4,
         "name": "Mercedes-Benz",
-        "description": "Mercedes-Benz is a German global automobile marque and a division of Daimler AG. Mercedes-Benz is known for luxury vehicles, buses, coaches, and trucks.",
+        "description": "Mercedes-Benz is a German global automobile marque and a division of Daimler AG. Mercedes-Benz is known for luxury vehicles, buses, coaches, and trucks. Founded in 1926, the brand is synonymous with luxury, performance, and cutting-edge technology. Mercedes-Benz has a rich history of innovation, including the development of the first internal combustion engine car. Today, the company continues to lead in automotive technology with advancements in autonomous driving, electric mobility, and safety features.",
         "founded": "1926-06-28",
         "discontinued": false,
         "headquarters": "Stuttgart, Germany",
@@ -104,21 +89,15 @@
             "name": "Mercedes-Benz S-Class",
             "release_year": 2023,
             "type": "Luxury Sedan",
-            "iconic": "Yes",
-            "production": 30000,
-            "engine": "Turbo-I6",
-            "top_speed": "155 mph",
             "innovation": "Safety features",
-            "popularity": "High",
-            "legacy": "Luxury and innovation",
-            "notable_feature": "Advanced driver assistance systems",
-            "performance": "High"
+            "production": 30000,
+            "Engine": "Turbo-I6"
         }
     },
     {
         "id": 5,
         "name": "Honda",
-        "description": "Honda Motor Co., Ltd. is a Japanese public multinational conglomerate corporation known as a manufacturer of automobiles, motorcycles, and power equipment.",
+        "description": "Honda Motor Co., Ltd. is a Japanese public multinational conglomerate corporation known as a manufacturer of automobiles, motorcycles, and power equipment. Founded in 1946, Honda is the world's largest manufacturer of motorcycles and one of the leading automakers. The company is renowned for its engineering excellence, reliability, and fuel efficiency. Honda's lineup includes a wide range of vehicles, from compact cars to SUVs, and the company is also a pioneer in hybrid and electric vehicle technology.",
         "founded": "1946-10-24",
         "discontinued": false,
         "headquarters": "Minato, Tokyo, Japan",
@@ -130,24 +109,17 @@
         ],
         "significant_model": {
             "id": 105,
-            "name": "Honda Civic Type-R",
+            "name": "Honda Civic type-R",
             "release_year": 2022,
             "type": "Compact car",
-            "iconic": "Yes",
-            "production": 5000,
-            "engine": "Turbo-I4",
-            "top_speed": "169 mph",
-            "innovation": "Performance tuning",
             "popularity": "Best-selling car in Canada",
-            "legacy": "High-performance compact",
-            "notable_feature": "Aggressive styling and performance",
-            "performance": "High"
+            "Engine": "Turbo-I4"
         }
     },
     {
         "id": 6,
         "name": "Volkswagen",
-        "description": "Volkswagen is a German automaker founded in 1937 by the German Labour Front and Ferdinand Porsche. It is the flagship marque of the Volkswagen Group.",
+        "description": "Volkswagen is a German automaker founded in 1937 by the German Labour Front and Ferdinand Porsche. It is the flagship marque of the Volkswagen Group. Known for its iconic Beetle and Golf models, Volkswagen has a reputation for producing reliable and affordable vehicles. The company has a strong presence in the global automotive market and continues to innovate with its electric vehicle lineup, including the ID. series. Volkswagen's commitment to sustainability is evident in its efforts to reduce emissions and promote green technologies.",
         "founded": "1937-05-28",
         "discontinued": true,
         "headquarters": "Wolfsburg, Germany",
@@ -159,24 +131,18 @@
         ],
         "significant_model": {
             "id": 106,
-            "name": "Volkswagen Golf R",
+            "name": "Volkswagen golf R",
             "release_year": 2017,
             "type": "Compact car",
-            "iconic": "Iconic clubsport car",
-            "production": 12000,
-            "engine": "Turbo-I4",
-            "top_speed": "155 mph",
-            "innovation": "All-wheel drive",
-            "popularity": "High",
-            "legacy": "Performance compact",
-            "notable_feature": "4Motion all-wheel drive",
-            "performance": "High"
+            "iconic": "iconic clubsport car",
+            "Engine": "Turbo- I4",
+            "Production": 12000
         }
     },
     {
         "id": 7,
         "name": "Chevrolet",
-        "description": "Chevrolet, colloquially referred to as Chevy and formally the Chevrolet Division of General Motors Company, is an American automobile division of the American manufacturer General Motors.",
+        "description": "Chevrolet, colloquially referred to as Chevy and formally the Chevrolet Division of General Motors Company, is an American automobile division of the American manufacturer General Motors. Founded in 1911, Chevrolet has a long history of producing a wide range of vehicles, from compact cars to full-size trucks. The brand is known for its performance-oriented models like the Corvette and Camaro, as well as its reliable and durable trucks. Chevrolet continues to innovate with advancements in electric vehicles and autonomous driving technology.",
         "founded": "1911-11-03",
         "discontinued": false,
         "headquarters": "Detroit, Michigan, United States",
@@ -191,21 +157,14 @@
             "name": "Chevrolet Corvette",
             "release_year": 2019,
             "type": "Sports car",
-            "iconic": "Yes",
-            "production": 20000,
-            "engine": "NA-V8",
-            "top_speed": "194 mph",
-            "innovation": "Mid-engine layout",
-            "popularity": "High",
             "legacy": "America's sports car",
-            "notable_feature": "Mid-engine design",
-            "performance": "High"
+            "Engine": "NA-V8"
         }
     },
     {
         "id": 8,
         "name": "Audi",
-        "description": "Audi AG is a German automobile manufacturer that designs, engineers, produces, markets and distributes luxury vehicles.",
+                "description": "vehicles. The brand's slogan, 'Vorsprung durch Technik' (Advancement through Technology), reflects its commitment to innovation and excellence. Audi's lineup includes a range of luxury sedans, SUVs, and high-performance sports cars. The company is also a leader in electric mobility with its e-tron series, showcasing its dedication to sustainability and cutting-edge automotive technology.",
         "founded": "1932-04-25",
         "discontinued": true,
         "headquarters": "Ingolstadt, Germany",
@@ -220,21 +179,15 @@
             "name": "Audi R8",
             "release_year": 2023,
             "type": "Supercar",
-            "iconic": "Yes",
-            "production": 29000,
-            "engine": "NA-V10",
-            "top_speed": "205 mph",
-            "innovation": "Quattro all-wheel drive",
-            "popularity": "High",
-            "legacy": "Iconic supercar",
             "notable_feature": "Mid-engine layout",
-            "performance": "High"
+            "Engine": "NA-V10",
+            "production": 29000
         }
     },
     {
         "id": 9,
         "name": "Nissan",
-        "description": "Nissan Motor Co., Ltd. is a Japanese multinational automobile manufacturer headquartered in Yokohama, Japan.",
+        "description": "Nissan Motor Co., Ltd. is a Japanese multinational automobile manufacturer headquartered in Yokohama, Japan. Founded in 1933, Nissan has a rich history of producing a wide range of vehicles, from economical compact cars to high-performance sports cars. The company is known for its innovative technologies, including the development of the Nissan LEAF, one of the world's best-selling electric vehicles. Nissan's commitment to sustainability and cutting-edge technology is evident in its continuous efforts to develop advanced safety features and autonomous driving capabilities.",
         "founded": "1933-12-26",
         "discontinued": true,
         "headquarters": "Yokohama, Japan",
@@ -249,44 +202,32 @@
             "name": "Nissan GT-R",
             "release_year": 2020,
             "type": "Sports car",
-            "iconic": "Yes",
-            "production": 50000,
-            "engine": "Twin Turbo-V6",
-            "top_speed": "196 mph",
-            "innovation": "Advanced all-wheel drive",
-            "popularity": "High",
-            "legacy": "Godzilla",
-            "notable_feature": "Advanced aerodynamics",
-            "performance": "High"
+            "performance": "High-performance vehicle",
+            "Engine": "Twin Turbo-V6",
+            "production": 50000
         }
     },
     {
         "id": 10,
         "name": "Mazda",
-        "description": "Mazda Motor Corporation is a Japanese multinational automaker based in Fuchū, Hiroshima, Japan.",
+        "description": "Mazda Motor Corporation is a Japanese multinational automaker based in Fuchū, Hiroshima, Japan. Founded in 1920, Mazda is known for its innovative engineering and stylish design. The company has a reputation for producing vehicles that are fun to drive, thanks to its 'Zoom-Zoom' philosophy. Mazda's SKYACTIV technology focuses on improving fuel efficiency and performance. The brand is also known for its iconic rotary engine, used in models like the RX-7. Mazda continues to push the boundaries of automotive engineering with its commitment to innovation and sustainability.",
         "founded": "1920-01-30",
         "discontinued": true,
         "headquarters": "Fuchū, Hiroshima, Japan",
         "image_url": "https://raw.githubusercontent.com/soufhmch/WebOntwikkeling/main/project/rx7-fd-front-end.jpg",
         "popular_models": [
-            "Mazda RX-7",
+            "Mazda rx-7",
             "Mazda CX-5",
             "Mazda MX-5"
         ],
         "significant_model": {
             "id": 110,
-            "name": "Mazda RX-7",
+            "name": "Mazda rx-7",
             "release_year": 1989,
             "type": "Sports car",
             "iconic": "Best-selling two-seat convertible sports car in history",
-            "production": 820000,
-            "engine": "Turbo-Rotary",
-            "top_speed": "160 mph",
-            "innovation": "Rotary engine",
-            "popularity": "High",
-            "legacy": "Iconic rotary sports car",
-            "notable_feature": "Lightweight design",
-            "performance": "High"
+            "Engine": "Turbo-Rotary",
+            "production": 820000
         }
     }
 ]
