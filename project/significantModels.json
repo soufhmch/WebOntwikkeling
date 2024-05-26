@@ -6,42 +6,73 @@
         "type": "Gasoline",
         "iconic": "2-step",
         "production": 12000,
-        "engine": "Turbo-I6"
+        "engine": "Turbo-I6",
+        "top_speed": "155 mph",
+        "innovation": "Performance tuning",
+        "popularity": "High",
+        "legacy": "Iconic sports car",
+        "notable_feature": "Twin-turbocharged engine",
+        "performance": "High"
     },
     {
         "id": 2,
         "name": "BMW M3",
         "release_year": 2002,
         "type": "Sports Sedan",
-        "top_speed": "175mph",
+        "top_speed": "175 mph",
         "production": 86000,
-        "engine": "Turbo-I6"
+        "engine": "Turbo-I6",
+        "iconic": "Yes",
+        "innovation": "Performance tuning",
+        "popularity": "High",
+        "legacy": "Iconic sports sedan",
+        "notable_feature": "M-tuned suspension",
+        "performance": "High"
     },
     {
         "id": 3,
         "name": "Ford Mustang GT Dark Horse",
         "release_year": 2022,
         "type": "Sports car",
-        "innovation": "Racing",
+        "iconic": "Yes",
         "production": 100,
-        "engine": "Supercharged-V8"
+        "engine": "Supercharged-V8",
+        "top_speed": "200 mph",
+        "innovation": "Racing",
+        "popularity": "High",
+        "legacy": "Strong",
+        "notable_feature": "Advanced aerodynamics and high-performance engine",
+        "performance": "High"
     },
     {
         "id": 4,
         "name": "Mercedes-Benz S-Class",
         "release_year": 2023,
         "type": "Luxury Sedan",
-        "innovation": "Safety features",
+        "iconic": "Yes",
         "production": 30000,
-        "engine": "Turbo-I6"
+        "engine": "Turbo-I6",
+        "top_speed": "155 mph",
+        "innovation": "Safety features",
+        "popularity": "High",
+        "legacy": "Luxury and innovation",
+        "notable_feature": "Advanced driver assistance systems",
+        "performance": "High"
     },
     {
         "id": 5,
         "name": "Honda Civic Type-R",
         "release_year": 2022,
         "type": "Compact car",
+        "iconic": "Yes",
+        "production": 5000,
+        "engine": "Turbo-I4",
+        "top_speed": "169 mph",
+        "innovation": "Performance tuning",
         "popularity": "Best-selling car in Canada",
-        "engine": "Turbo-I4"
+        "legacy": "High-performance compact",
+        "notable_feature": "Aggressive styling and performance",
+        "performance": "High"
     },
     {
         "id": 6,
@@ -49,34 +80,59 @@
         "release_year": 2017,
         "type": "Compact car",
         "iconic": "Iconic clubsport car",
+        "production": 12000,
         "engine": "Turbo-I4",
-        "production": 12000
+        "top_speed": "155 mph",
+        "innovation": "All-wheel drive",
+        "popularity": "High",
+        "legacy": "Performance compact",
+        "notable_feature": "4Motion all-wheel drive",
+        "performance": "High"
     },
     {
         "id": 7,
         "name": "Chevrolet Corvette",
         "release_year": 2019,
         "type": "Sports car",
+        "iconic": "Yes",
+        "production": 20000,
+        "engine": "NA-V8",
+        "top_speed": "194 mph",
+        "innovation": "Mid-engine layout",
+        "popularity": "High",
         "legacy": "America's sports car",
-        "engine": "NA-V8"
+        "notable_feature": "Mid-engine design",
+        "performance": "High"
     },
     {
         "id": 8,
         "name": "Audi R8",
         "release_year": 2023,
         "type": "Supercar",
-        "notable_feature": "Mid-engine layout",
+        "iconic": "Yes",
+        "production": 29000,
         "engine": "NA-V10",
-        "production": 29000
+        "top_speed": "205 mph",
+        "innovation": "Quattro all-wheel drive",
+        "popularity": "High",
+        "legacy": "Iconic supercar",
+        "notable_feature": "Mid-engine layout",
+        "performance": "High"
     },
     {
         "id": 9,
         "name": "Nissan GT-R",
         "release_year": 2020,
         "type": "Sports car",
-        "performance": "High-performance vehicle",
+        "iconic": "Yes",
+        "production": 50000,
         "engine": "Twin Turbo-V6",
-        "production": 50000
+        "top_speed": "196 mph",
+        "innovation": "Advanced all-wheel drive",
+        "popularity": "High",
+        "legacy": "Godzilla",
+        "notable_feature": "Advanced aerodynamics",
+        "performance": "High"
     },
     {
         "id": 10,
@@ -84,7 +140,13 @@
         "release_year": 1989,
         "type": "Sports car",
         "iconic": "Best-selling two-seat convertible sports car in history",
+        "production": 820000,
         "engine": "Turbo-Rotary",
-        "production": 820000
+        "top_speed": "160 mph",
+        "innovation": "Rotary engine",
+        "popularity": "High",
+        "legacy": "Iconic rotary sports car",
+        "notable_feature": "Lightweight design",
+        "performance": "High"
     }
 ]
